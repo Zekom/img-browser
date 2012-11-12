@@ -30,7 +30,6 @@ Manipulacija slik v brskalniku - Seminarska pri predmetu Projektni praktikum
 
 
 
-
 Naročnik:
 Sodelujoči:
 Kraj in datum:
