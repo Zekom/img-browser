@@ -89,7 +89,7 @@ possible to use the coordinates data to be used for any purpose.</p>
     <?php include('function/effects.php') ?>
     
     <h2>Download</h2>    
-    <a href="https://github.com/trepmag/jrac">https://github.com/trepmag/jrac</a>
+    <a href="https://github.com/zekom/jrac">https://github.com/Zekom/jrac</a>
     
   </body>
 </html>
