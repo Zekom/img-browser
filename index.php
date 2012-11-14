@@ -91,5 +91,9 @@ possible to use the coordinates data to be used for any purpose.</p>
     <h2>Download</h2>    
     <a href="https://github.com/trepmag/jrac">https://github.com/trepmag/jrac</a>
     
+    ZekomZ - Zekom Tribute Magazine - G+
+    https://github.com/Zekom
+    Zekom. It's the Law.
+    
   </body>
 </html>
