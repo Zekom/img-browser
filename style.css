@@ -45,6 +45,14 @@ pre.code {
   border:1px dashed #ccc;
 }
 
+div.footer
+{
+  margin:auto;
+  width:33%;
+  height:auto;
+}
+
+
 /* Override some jrac css */
 .jrac_viewport {
   width:440px;
