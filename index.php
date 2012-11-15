@@ -73,7 +73,7 @@ possible to use the coordinates data to be used for any purpose.</p>
     <h2>Demo</h2>
     <p>Move the image or the crop with the pointer, resize the crop with the pointer, use the zoom bar to scale the image or set your values into the inputs.</p>
     <div class="pane clearfix">
-      <img src="images/Pobuda-NLP-Odgovor-Varuha-2011-Javno.jpg.jpg" alt="Seminarska naloga" />
+      <img src="images/spider.jpg" alt="Seminarska naloga" />
       <table class="coords">
         <tr><td>crop x</td><td><input type="text" /></td></tr>
         <tr><td>crop y</td><td><input type="text" /></td></tr>
