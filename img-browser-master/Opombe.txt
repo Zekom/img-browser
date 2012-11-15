@@ -1,9 +1,0 @@
-V to datoteko lahko vnašate vprašanja, opombe, predloge, navodila ...
-
-Ali vam Github dela?
-
-
-
-Kako v okolju GITHUB dodamo povezane repozitorije:
-http://stackoverflow.com/questions/7813030/how-can-i-have-linked-dependencies-in-a-git-repo
-

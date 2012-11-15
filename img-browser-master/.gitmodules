@@ -1,9 +1,0 @@
-[submodule "include/jrac"]
-	path = include/jrac
-	url = https://github.com/Zekom/jrac.git
-[submodule "include/jquery"]
-	path = include/jquery
-	url = https://github.com/Zekom/jquery.git
-[submodule "include/jquery-ui"]
-	path = include/jquery-ui
-	url = https://github.com/Zekom/jquery-ui.git
