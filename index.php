@@ -90,7 +90,7 @@ possible to use the coordinates data to be used for any purpose.</p>
     
     <h2>Download</h2>    
     <a href="https://github.com/zekom/jrac">https://github.com/Zekom/jrac</a>
-    
+  <div class="footer">  
   <pre>
     ZekomZ - Zekom Tribute Magazine - G+
     <a href="https://plus.google.com/102962854949157079552">
@@ -102,5 +102,6 @@ www.IndieGoGo.com/Zekom
 Zekom. It's the Law.
 </a>
   </pre>
+  </div>
   </body>
 </html>
