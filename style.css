@@ -45,12 +45,12 @@ pre.code {
   border:1px dashed #ccc;
 }
 
-div.footer
+.footer
 {
   margin:auto;
   color:orange;
   background-color:gray;
-  width:33%;
+  width:99em;
   height:auto;
 }
 
