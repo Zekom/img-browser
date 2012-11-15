@@ -48,6 +48,8 @@ pre.code {
 div.footer
 {
   margin:auto;
+  color:orange;
+  background-color:gray;
   width:33%;
   height:auto;
 }
