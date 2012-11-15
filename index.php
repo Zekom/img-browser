@@ -87,7 +87,7 @@ possible to use the coordinates data to be used for any purpose.</p>
     
     <?php include('function/preview.php') ?>
     <?php include('function/effects.php') ?>
-    
+    <div class="footer">
     <h2>Download</h2>    
     <a href="https://github.com/zekom/jrac">https://github.com/Zekom/jrac</a>
     <pre class="code">
