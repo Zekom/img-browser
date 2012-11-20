@@ -1,4 +1,4 @@
-<?php // Glavni dokument //?>
+<?php // ZekomZ - Zekom Tribute Magazine - G+ //?>
 <html xmlns="http://www.w3.org/1999/xhtml" >
   <head>
     <title>jQuery Resize And Crop (jrac) example</title>
