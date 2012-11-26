@@ -1,8 +1,12 @@
 <?php // ZekomZ - Zekom Tribute Magazine - G+ //?>
 <html xmlns="http://www.w3.org/1999/xhtml" >
   <head>
-    <title>jQuery Resize And Crop (jrac) example</title>
-    
+    <title>ZekomZ - Zekom Tribute Magazine - G+</title>
+<a href="http://community.studiolabproject.eu/category/tags/zekom"><pre>
+ZekomZ - Zekom Tribute Magazine - G+</a><a href=http://community.studiolabproject.eu/blog/65">
+    WwW.IndieGoGo.si/Zekom
+    Zekom. It's the Law.
+</pre></a>
     <!-- jQuery -->
     <script type="text/javascript" src="http://code.jquery.com/jquery-1.6.2.js"></script>
     
