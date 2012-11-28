@@ -233,5 +233,7 @@ ZekomZ - Zekom Tribute Magazine - G+
 <a href="http://www.indiegogo.com/zekom">WwW.IndieGoGo.com/Zekom</a>
 Zekom. It's the Law.
 Sodelujoči:
+https://github.com/zekom
+https://github.com/lukas86
 Kraj in datum:
 
