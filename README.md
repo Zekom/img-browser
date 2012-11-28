@@ -11,9 +11,27 @@ Manipulacija slik v brskalniku - Seminarska pri predmetu Projektni praktikum
 Fakulteta za računalništvo in informatiko - Predmetnik BUN-VS</a><hr/>
 https://ucilnica.fri.uni-lj.si/course/view.php?id=94<hr/>
 <a href="https://ucilnica.fri.uni-lj.si/course/view.php?id=51">
-Projektni praktikum
-</a>
 
+Projektni praktikum
+
+</a>
+    Domov
+    / ► Moji predmeti
+    / ► pp
+    / ► Splošno
+    / ► Forum za razprave
+    / ► Definiranje projektnih skupin in projektov
+
+Pomoč za IščiIščiIšči v forumih
+ 
+Način prikaza
+ 
+Slika od Aleš Jaklič
+Definiranje projektnih skupin in projektov
+od Aleš Jaklič - torek, 6. november 2012, 17:32
+ 
+
+V to temo vpišite naslov projekta in člane projektne skupine.
 Izbrani projekti
 od Luka Šajn - sreda, 21. november 2012, 06:46
  
