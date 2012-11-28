@@ -122,15 +122,72 @@ Assignment Pisno preverjanje znanja iz časovne analize aktivnostnih mrež
 4. Predpostavke, tveganja, ovire
  [tehnološke, okoljske, medosebne, kulturne, spremembe okolja (dovoljenja, dobava)]
 
+Improving semantic interoperability in European eGovernment systems
+Methodologies for the development of semantic assets
 
+Action 1.1
+Re-usable Inspire reference platform
+Reusable generic tools
+
+Action 1.17
+Improving cross-border access to government data
+Access to base registries
+
+Action 1.2
+Accessing Member State information resources at European level
+Catalogue of Services
+
+Action 1.3
+EU-wide interoperability of electronic identities
+ECAS-STORK integration
+
+Action 1.4   a
+An interoperable solution for electronic identities (eIDs)
+STORK sustainability
+
+Action 1.5
+Developing electronic procurement for Europe
+PEPPOL sustainability
+
+Action 1.6
+Promoting the take-up of pan-European electronic procurement
+e-PRIOR electronic procurement platform
+
+Action 1.7
+Permitting secure document workflows between EU and national institutions
+Trusted Exchange Platform – e-Trustex
+
+Action 1.8
+Electronic procedures across borders
+TSL and eSignature creation/verification
+
+Action 1.9
+Flexible administrative cooperation platform
+IMI – the Internal Market Information System
+
+Action 1.10
+Managing and supporting the exchange of information
+GENIS – Generic Interoperable Notification Services
+
+Action 1.11
+Reusable tools for information collection
+Open source software to support the European citizens﻿
+Razširi ta komentar »
+ZekomZ - Zekom Tribute Magazine, 01:11
+
+https://github.com/Zekom/img-browser/admin/collaboration﻿
+https://github.com/Zekom/img-browser
+https://github.com/Zekom
 
 
 5. Priloge
-[analiza tveganja, finančne analize (analiza izvedljivosti, analiza stroškov/prednosti, povračila investicije)]
+<a href="https://ucilnica.fri.uni-lj.si/mod/forum/discuss.php?d=6369">[analiza tveganja, finančne analize (analiza izvedljivosti, analiza stroškov/prednosti, povračila investicije)]
+</a>
 
 
-
-Naročnik:
+Naročnik: <a href="https://plus.google.com/102962854949157079552">ZekomZ - Zekom Tribute Magazine - G+</a>
+<a href="http://www.indiegogo.com/zekom">WwW.IndieGoGo.com/Zekom</a>
+Zekom. It's the Law.
 Sodelujoči:
 Kraj in datum:
 
