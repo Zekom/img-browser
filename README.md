@@ -16,6 +16,8 @@ Projektni praktikum
 
 Samostojna izdelava programov
 
+</a>
+
 Del izobraževalnega procesa na Fakulteti za računalništvo in informatiko je tudi samostojna izdelava računalniških programov. Žal študentje pogosto hote ali nehote narobe razumejo osnovna pravila poštene igre. Pri oddaji programske kode zato pogosto pride do različnih nepoštenosti in goljufij. Da bi se v bodoče izognili sprenevedanjem o tem, kaj se sme in česa ne, je v nadaljevanju jasno opisano, kaj pomeni samostojna izdelava programov.
 
 Da mora študent sam izdelati program, je jasno nakazano že s pridevnikom samostojna. V izogib nejasnosti v zvezi s pomenom te besede, natančno povejmo, kaj pomeni. Da študent samostojno reši nalogo, pomeni, da mora študent nalogo rešiti popolnoma sam. Vsaka črka programa, ki ga odda, mora biti njegovo delo. Seveda si v prvi fazi reševanja naloge (to je v fazi pridobivanja podatkov, razčiščevanja pojmov in teoretičnega razglabljanja o načinu reševanja naloge) lahko pomaga z različno literaturo (knjige, priročniki, že napisana koda, internet, sošolci, ...), v drugi fazi (to je v fazi pisanja kode) pa študent dela SAM. Program napiše tako, da odpre urejevalnik kode in v prazen dokument samostojno napiše celotno kodo programa. Operacija kopiraj/prilepi (copy/paste) in pa ročno prepisovanje iz literature so strogo prepovedani (študent, ki prepisuje dele programa iz obstoječih programov, ima morda občutek, da napisano razume, vendar je ta občutek pogosto zavajajoč; najlažji način, da se prepriča, ali napisano res razume, je, da obstoječi vir skrije in kodo na novo napiše sam).
@@ -25,7 +27,7 @@ Oddano kodo bomo preverjali s sistemom za iskanje podobnosti v programih (trenut
 Natančnejša pravila akademske poštenosti so zbrana v dokumentu
 
 http://storm.uni-mb.si/predmeti/AkademskaPostenost.pdf.
-</a>
+
     Domov
     / ► Moji predmeti
     / ► pp
