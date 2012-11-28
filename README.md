@@ -9,7 +9,7 @@ Manipulacija slik v brskalniku - Seminarska pri predmetu Projektni praktikum
 
 <a href="http://www.fri.uni-lj.si/file/133640/predmetnik_estudent_04.swf">
 Fakulteta za računalništvo in informatiko - Predmetnik BUN-VS</a>
-
+https://ucilnica.fri.uni-lj.si/course/view.php?id=94
 <a href="https://ucilnica.fri.uni-lj.si/course/view.php?id=51">
 Projektni praktikum
 </a>
