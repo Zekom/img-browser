@@ -96,8 +96,6 @@ Projektni praktikum
 
 28 a) Oddaja projektov in zagovo... | 5 days? 14.1.2013 10:00 18.1.2013 22:00
 
-(X) <=:) X marks "You are Here."
-
 
 3. Merila uspešnosti projekta
 
