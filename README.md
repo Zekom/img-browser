@@ -22,25 +22,21 @@ Projektni praktikum
     / ► Forum za razprave
     / ► Definiranje projektnih skupin in projektov
 
-Pomoč za IščiIščiIšči v forumih
- 
-Način prikaza
- 
-Slika od Aleš Jaklič
+Pomoč za Išči Išči Išči v forumih
 Definiranje projektnih skupin in projektov
 od Aleš Jaklič - torek, 6. november 2012, 17:32
  
 
 V to temo vpišite naslov projekta in člane projektne skupine.
 Izbrani projekti
+
 od Luka Šajn - sreda, 21. november 2012, 06:46
- 
 
 Na učilnici je v tednu 19.11. do 23.11. dodan forum, kamor vodje skupin ali poljubni član skupine vpišejo osnovne podatke, ki so navedeni v opisu foruma.
 
 Prosim da do konca tedna oddate svoje podatke o projektu.
 
-lp Luka Šajn
+https://ucilnica.fri.uni-lj.si/mod/forum/discuss.php?d=6588
 
     Domov
     / ► Moji predmeti
