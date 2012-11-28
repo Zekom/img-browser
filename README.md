@@ -2,6 +2,7 @@ img-browser
 ===========
 
 Manipulacija slik v brskalniku - Seminarska pri predmetu Projektni praktikum
+<hr/>
 
 1. Izhodišče (problem/priložnost)
  [opišite problem - izhodišče, zahteve naročnika, priložnosti za izboljšave]
@@ -44,6 +45,7 @@ Vse udeležence predmeta bi rad opozoril, da se ta teden bliža rok za oddajo pi
 
 Dobil sem vprašanje, kako bo potekalo ocenjevanje. Vsekakor bo na končno oceno vplivalo bolj ali manj dosledno upoštevanje navodil (obseg, reference, strukturiranje, uporaba IEEEtran sloga, ..., beri navodila) ter uporaba formalnega jezika in ustreznega izrazoslovja. Stavki kot npr: "Opisani program upgrejda Windowsov servis za printanje fajlov" ne sodijo v ta kontekst.
 
+<hr/>
 
 2. Cilji projekta
 [bolj natančen opis ciljev projekta, opredelite tudi meje projekta]
@@ -111,6 +113,7 @@ DDNNNNDDNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMNMN8OZZOO
 
 28 a) Oddaja projektov in zagovo... | 5 days? 14.1.2013 10:00 18.1.2013 22:00
 
+<hr/>
 
 3. Merila uspešnosti projekta
 
@@ -133,6 +136,8 @@ Prosim da v ta forum napišete/opišete posamezne skupine (po en član iz skupin
     To prinese skupini dodatnih 5 toćk
 
 Assignment Pisno preverjanje znanja iz časovne analize aktivnostnih mrež
+
+<hr/>
 
 4. Predpostavke, tveganja, ovire
  [tehnološke, okoljske, medosebne, kulturne, spremembe okolja (dovoljenja, dobava)]
@@ -187,20 +192,20 @@ GENIS – Generic Interoperable Notification Services
 Action 1.11
 Reusable tools for information collection
 Open source software to support the European citizens﻿
-Razširi ta komentar »
 ZekomZ - Zekom Tribute Magazine - G+, 01:11
 
-https://github.com/Zekom/img-browser/admin/collaboration﻿
+https://github.com/Zekom/img-browser/admin
 https://github.com/Zekom/img-browser
 https://github.com/Zekom
 
+<hr/>
 
 5. Priloge
 <a href="https://ucilnica.fri.uni-lj.si/mod/forum/discuss.php?d=6369">[analiza tveganja, finančne analize (analiza izvedljivosti, analiza stroškov/prednosti, povračila investicije)]
 </a>
 <a href="https://ucilnica.fri.uni-lj.si/mod/resource/view.php?id=11554">
 Apache OpenOffice - The Free and Open Productivity Suite
-www.openoffice.org/ - Posnetek </a>
+www.openoffice.org/ - Posnetek </a><br/>
 <a href="https://github.com/Zekom/img-browser/compare/Zekom-Image-Studio-V-1-0-1...master">The official home page of the Apache OpenOffice open source project, 
 home of OpenOffice Writer, Calc, Impress, Draw and Base.</a>
 https://github.com/Zekom/img-browser/compare/Zekom-Image-Studio-V-1-0-1...master
