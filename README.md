@@ -200,11 +200,12 @@ https://github.com/Zekom
 </a>
 <a href="https://ucilnica.fri.uni-lj.si/mod/resource/view.php?id=11554">
 Apache OpenOffice - The Free and Open Productivity Suite
-www.openoffice.org/ - Posnetek - Prevedi to stran
-The official home page of the Apache OpenOffice open source project, 
+www.openoffice.org/ - Posnetek </a>
+<a href="https://github.com/Zekom/img-browser/compare/Zekom-Image-Studio-V-1-0-1...master">The official home page of the Apache OpenOffice open source project, 
 home of OpenOffice Writer, Calc, Impress, Draw and Base.</a>
 
 <a href="http://sourceforge.net/projects/projectlibre/">ProjectLibre: the open source replacement of Microsoft Project
+
 
 Welcome to the ProjectLibre community.  
 ProjectLibre was voted open source 'Project of the Month' in our first month!!!!! 
