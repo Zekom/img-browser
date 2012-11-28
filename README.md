@@ -14,7 +14,7 @@ Projektni praktikum
 </a>
 
 Izbrani projekti
-od Luka Šajn - sreda, 21. november 2012, 06:40
+od Luka Šajn - sreda, 21. november 2012, 06:46
  
 
 Na učilnici je v tednu 19.11. do 23.11. dodan forum, kamor vodje skupin ali poljubni član skupine vpišejo osnovne podatke, ki so navedeni v opisu foruma.
@@ -156,7 +156,7 @@ Action 1.3
 EU-wide interoperability of electronic identities
 ECAS-STORK integration
 
-Action 1.4   a
+Action 1.4   
 An interoperable solution for electronic identities (eIDs)
 STORK sustainability
 
@@ -203,9 +203,11 @@ Apache OpenOffice - The Free and Open Productivity Suite
 www.openoffice.org/ - Posnetek </a>
 <a href="https://github.com/Zekom/img-browser/compare/Zekom-Image-Studio-V-1-0-1...master">The official home page of the Apache OpenOffice open source project, 
 home of OpenOffice Writer, Calc, Impress, Draw and Base.</a>
+https://github.com/Zekom/img-browser/compare/Zekom-Image-Studio-V-1-0-1...master
 
+<hr/>
 <a href="http://sourceforge.net/projects/projectlibre/">ProjectLibre: the open source replacement of Microsoft Project
-
+<hr/>
 
 Welcome to the ProjectLibre community.  
 ProjectLibre was voted open source 'Project of the Month' in our first month!!!!! 
