@@ -176,9 +176,11 @@ Action 1.1
 Re-usable Inspire reference platform
 Reusable generic tools
 
+<a href="http://www.wolframalpha.com/input/?i={{{356*24*60*60%2F3600}%2C{2123456%2F%2810^9%29}%2C{22*7*8%2F24%2F3600%2845%2F60%29}}%2C{{1}%2C{2}%2C{3}}%2C{{10^9}%2C{10^6}%2C{10^3}}}">
 Action 1.17
 Improving cross-border access to government data
 Access to base registries
+</a>
 
 Action 1.2
 Accessing Member State information resources at European level
