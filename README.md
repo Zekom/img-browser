@@ -99,7 +99,25 @@ Projektni praktikum
 
 3. Merila uspešnosti projekta
 
+P. Adaptivno vodenje projektov
+URL WBS modeler - povezava URL
 
+LV. Preverjanje
+
+Individualni zagovori domačih nalog iz mrežnega načrtovanja (vsak študent dobi svoj list z unikatno nalogo iz mrežnega načrtovanja)
+Forum Izbrani projekti Forum
+
+Prosim da v ta forum napišete/opišete posamezne skupine (po en član iz skupine / vodja):
+
+    Člani:
+    Naslov projekta:
+    Kateri programski jezik uporabljate:
+    Ali uporabljate QT?
+    Ali za distribucijo uporabljate Google App Engine?
+    Ali bi 30.11.2012 v času predavanj na kratko podali praktične izkušnje in priporočila ostalim študentom za implementacijo (zaželjena je kombinacija Python / QT / Google app engine)?
+    To prinese skupini dodatnih 5 toćk
+
+Assignment Pisno preverjanje znanja iz časovne analize aktivnostnih mrež
 
 4. Predpostavke, tveganja, ovire
  [tehnološke, okoljske, medosebne, kulturne, spremembe okolja (dovoljenja, dobava)]
