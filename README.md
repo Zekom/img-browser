@@ -173,7 +173,7 @@ Action 1.11
 Reusable tools for information collection
 Open source software to support the European citizens﻿
 Razširi ta komentar »
-ZekomZ - Zekom Tribute Magazine, 01:11
+ZekomZ - Zekom Tribute Magazine - G+, 01:11
 
 https://github.com/Zekom/img-browser/admin/collaboration﻿
 https://github.com/Zekom/img-browser
@@ -183,9 +183,30 @@ https://github.com/Zekom
 5. Priloge
 <a href="https://ucilnica.fri.uni-lj.si/mod/forum/discuss.php?d=6369">[analiza tveganja, finančne analize (analiza izvedljivosti, analiza stroškov/prednosti, povračila investicije)]
 </a>
+<a href="https://ucilnica.fri.uni-lj.si/mod/resource/view.php?id=11554">
+Apache OpenOffice - The Free and Open Productivity Suite
+www.openoffice.org/ - Posnetek - Prevedi to stran
+The official home page of the Apache OpenOffice open source project, 
+home of OpenOffice Writer, Calc, Impress, Draw and Base.</a>
+
+<a href="http://sourceforge.net/projects/projectlibre/">ProjectLibre: the open source replacement of Microsoft Project
+
+Welcome to the ProjectLibre community.  
+ProjectLibre was voted open source 'Project of the Month' in our first month!!!!! 
+Thank you to the community,  it is important as we are looking to grow 
+the usage of our open source replacement of Microsoft Project 
+with a vibrant international community.  
+You can join the community today! The ProjectLibre team were 
+the founders and developers of open source software downloaded
+more than 4 million times around the world. 
+ProjectLibre is a major open source addition as the 
+leading alternative to Microsoft Project.
+It has been downloaded in 192 countries Download Now!!!!</a>
 
 
-Naročnik: <a href="https://plus.google.com/102962854949157079552">ZekomZ - Zekom Tribute Magazine - G+</a>
+Naročnik: <a href="https://plus.google.com/102962854949157079552">
+ZekomZ - Zekom Tribute Magazine - G+
+</a>
 <a href="http://www.indiegogo.com/zekom">WwW.IndieGoGo.com/Zekom</a>
 Zekom. It's the Law.
 Sodelujoči:
