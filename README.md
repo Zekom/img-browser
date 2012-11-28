@@ -13,6 +13,16 @@ Fakulteta za računalništvo in informatiko - Predmetnik BUN-VS</a>
 Projektni praktikum
 </a>
 
+Izbrani projekti
+od Luka Šajn - sreda, 21. november 2012, 06:40
+ 
+
+Na učilnici je v tednu 19.11. do 23.11. dodan forum, kamor vodje skupin ali poljubni član skupine vpišejo osnovne podatke, ki so navedeni v opisu foruma.
+
+Prosim da do konca tedna oddate svoje podatke o projektu.
+
+lp Luka Šajn
+
     Domov
     / ► Moji predmeti
     / ► pp
