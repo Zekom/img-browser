@@ -8,7 +8,9 @@ Manipulacija slik v brskalniku - Seminarska pri predmetu Projektni praktikum
  [opišite problem - izhodišče, zahteve naročnika, priložnosti za izboljšave]
 
 <a href="http://www.fri.uni-lj.si/file/133640/predmetnik_estudent_04.swf">
-Fakulteta za računalništvo in informatiko - Predmetnik BUN-VS</a><hr/>
+Fakulteta za računalništvo in informatiko - Predmetnik BVS-RI_BVS-RI (136), FRI2012/2013</a>
+http://www.fri.uni-lj.si/si/izobrazevanje/urnik/dodiplomski-studij/
+<hr/>
 https://ucilnica.fri.uni-lj.si/course/view.php?id=94<hr/>
 <a href="https://ucilnica.fri.uni-lj.si/course/view.php?id=51">
 
