@@ -7,8 +7,8 @@ Manipulacija slik v brskalniku - Seminarska pri predmetu Projektni praktikum
 1. Izhodišče (problem/priložnost)
  [opišite problem - izhodišče, zahteve naročnika, priložnosti za izboljšave]
 
-<a href="http://www.fri.uni-lj.si/file/133640/predmetnik_estudent_04.swf">
 <hr/>
+<a href="http://www.fri.uni-lj.si/file/133640/predmetnik_estudent_04.swf">
 Fakulteta za računalništvo in informatiko - Predmetnik BVS-RI_BVS-RI (136), FRI2012/2013</a>
 http://www.fri.uni-lj.si/si/izobrazevanje/urnik/dodiplomski-studij/
 <hr/>
@@ -297,6 +297,15 @@ Subject line of your payment email:	ProjectLibre
 Yours sincerely,
 PayPal
 <hr/>
+
+https://usersite.datalab.eu/UserProfile/tabid/209/userId/7414/language/sl-SI/Default.aspx
+http://www.w3schools.com/js/tryit.asp?filename=tryjs_intro_alert
+http://www.webdevout.net/articles/webdev-tools
+http://validator.w3.org/
+
+https://github.com/Zekom/img-browser/administrator
+https://github.com/Zekom/img-browser
+https://github.com/Zekom
 
 Naročnik: <a href="https://plus.google.com/102962854949157079552">
 ZekomZ - Zekom Tribute Magazine - G+
