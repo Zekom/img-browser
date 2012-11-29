@@ -68,12 +68,22 @@ od Luka Šajn - ponedeljek, 22. oktober 2012, 14:41
 <a href="https://ucilnica.fri.uni-lj.si/mod/forum/view.php?id=20962">
 
 </a>
- 
+
+
 
 Vse udeležence predmeta bi rad opozoril, da se ta teden bliža rok za oddajo pisnega izdelka. Prosim vas, da si pred oddajo še enkrat natančno preberete navodila.
 
 Dobil sem vprašanje, kako bo potekalo ocenjevanje. Vsekakor bo na končno oceno vplivalo bolj ali manj dosledno upoštevanje navodil (obseg, reference, strukturiranje, uporaba IEEEtran sloga, ..., beri navodila) ter uporaba formalnega jezika in ustreznega izrazoslovja. Stavki kot npr: "Opisani program upgrejda Windowsov servis za printanje fajlov" ne sodijo v ta kontekst.
 
+EyeContact eksperiment
+od Robert Ravnik - četrtek, 8. november 2012, 12:56
+  
+
+Vse zainteresirane vljudno prosimo za pomoč pri eksperimentu, kjer ugotavljamo (ne)prisotnost očesnega stika med videokonferenčno komunikacijo. Svoj pogled lahko oddaš na:
+
+http://papagena.fri.uni-lj.si/dyana2/
+
+Sodelujočim se vnaprej zahvaljujemo za sodelovanje.
 <hr/>
 
 2. Cilji projekta
