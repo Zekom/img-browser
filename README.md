@@ -8,6 +8,7 @@ Manipulacija slik v brskalniku - Seminarska pri predmetu Projektni praktikum
  [opišite problem - izhodišče, zahteve naročnika, priložnosti za izboljšave]
 
 <a href="http://www.fri.uni-lj.si/file/133640/predmetnik_estudent_04.swf">
+<hr/>
 Fakulteta za računalništvo in informatiko - Predmetnik BVS-RI_BVS-RI (136), FRI2012/2013</a>
 http://www.fri.uni-lj.si/si/izobrazevanje/urnik/dodiplomski-studij/
 <hr/>
@@ -286,6 +287,7 @@ ProjectLibre is a major open source addition as the
 leading alternative to Microsoft Project.
 It has been downloaded in 192 countries Download Now!!!!</a>
 
+<hr/>
 Amount: $1.00 USD
 Currency conversion:	€0.81 EUR = $1.00 USD
 Exchange rate:	1 EUR = 1.23456USD
@@ -294,6 +296,7 @@ Subject line of your payment email:	ProjectLibre
 
 Yours sincerely,
 PayPal
+<hr/>
 
 Naročnik: <a href="https://plus.google.com/102962854949157079552">
 ZekomZ - Zekom Tribute Magazine - G+
@@ -301,6 +304,7 @@ ZekomZ - Zekom Tribute Magazine - G+
 <a href="http://www.indiegogo.com/zekom">WwW.IndieGoGo.com/Zekom</a>
 Zekom. It's the Law.
 Sodelujoči:
+<hr/>
 https://github.com/zekom
 <hr/>
 https://git/hub.com/lukas86
