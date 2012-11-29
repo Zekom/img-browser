@@ -286,6 +286,14 @@ ProjectLibre is a major open source addition as the
 leading alternative to Microsoft Project.
 It has been downloaded in 192 countries Download Now!!!!</a>
 
+Amount: $1.00 USD
+Currency conversion:	€0.81 EUR = $1.00 USD
+Exchange rate:	1 EUR = 1.23456USD
+Sent on:	November 28, 2012
+Subject line of your payment email:	ProjectLibre
+
+Yours sincerely,
+PayPal
 
 Naročnik: <a href="https://plus.google.com/102962854949157079552">
 ZekomZ - Zekom Tribute Magazine - G+
@@ -294,6 +302,9 @@ ZekomZ - Zekom Tribute Magazine - G+
 Zekom. It's the Law.
 Sodelujoči:
 https://github.com/zekom
-https://github.com/lukas86
+<hr/>
+https://git/hub.com/lukas86
+<hr/>
+
 Kraj in datum:
 
