@@ -1,5 +1,9 @@
 img-browser
 ===========
+ Welcome, New Editor. Sing up and register to GitHub for adminstrative…
+
+… privileges.
+
 
 Manipulacija slik v brskalniku - Seminarska pri predmetu Projektni praktikum
 <hr/>
@@ -317,6 +321,8 @@ Sodelujoči:
 https://github.com/zekom
 <hr/>
 https://git/hub.com/lukas86
+<hr/>
+https://github.com/papler
 <hr/>
 
 Kraj in datum:
