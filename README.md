@@ -2,6 +2,7 @@ Projektni praktikum
 Študijsko leto 2012/2013
   
 https://ucilnica.fri.uni-lj.si/mod/forum/view.php?id=20962
+http://localhost/Zekom/img-browser/
 
 Odziv
 https://github.com/Zekom?tab=activity
