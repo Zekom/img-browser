@@ -1,7 +1,7 @@
-<?php // Glavni dokument //?>
+<?php // Zekom Image Studio v-1-0-1 //?>
 <html xmlns="http://www.w3.org/1999/xhtml" >
   <head>
-    <title>jQuery Resize And Crop (jrac) example</title>
+    <title>Zekom jQuery Resize And Crop (jrac) example</title>
     
     <!-- jQuery -->
     <script type="text/javascript" src="http://code.jquery.com/jquery-1.6.2.js"></script>
@@ -70,7 +70,15 @@
     <p>jQuery Resize And Crop (jrac) is a jQuery plugin that build a viewport around a
 given image permitting to visually resize an image and place a crop. Then it is
 possible to use the coordinates data to be used for any purpose.</p>
-    <h2>Demo</h2>
+    
+    <h2>Download</h2>    
+    <a href="https://github.com/zekom/jrac">https://github.com/Zekom/jrac</a>
+    <pre class="code">
+        ZekomZ- Zekom Tribute Magazine - G+
+        www.IndieGoGo.com/Zekom
+        Zekom. It's the Law.
+    </pre>
+    
     <p>Move the image or the crop with the pointer, resize the crop with the pointer, use the zoom bar to scale the image or set your values into the inputs.</p>
     <div class="pane clearfix">
       <img src="images/Star-Trek-The-Next-Generations-The-Comm-45adbe5d.jpg" alt="Seminarska naloga" />
@@ -86,16 +94,11 @@ possible to use the coordinates data to be used for any purpose.</p>
     </div>
     
     <?php include('function/preview.php') ?>
+    <iframe src="prototype.html" width="950" height="650"></iframe>
     <?php include('function/effects.php') ?>
     
     <div class="footer">
-    <h2>Download</h2>    
-    <a href="https://github.com/zekom/jrac">https://github.com/Zekom/jrac</a>
-    <pre class="code">
-        ZekomZ- Zekom Tribute Magazine - G+
-        www.IndieGoGo.com/Zekom
-        Zekom. It's the Law.
-    </pre>
+    
 <<<<<<< HEAD=======
     </a>
             <a href="https://plus.google.com/102962854949157079552">
