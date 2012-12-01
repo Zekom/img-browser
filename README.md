@@ -15,7 +15,7 @@ img-browser
  Welcome, New Editor. Sing up and register to GitHub for adminstrative privileges.
 
 
-Manipulacija slik v brskalniku - Seminarska pri predmetu Projektni praktikum
+Manipulacija slik v brskalniku - Seminarska pri predmetu "Projektni praktikum"
 <hr/>
 
 1. Izhodišče (problem/priložnost)
