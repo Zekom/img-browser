@@ -291,48 +291,6 @@ Re-usable Inspire reference platform
 Reusable generic tools
 </a>
 
-<a href="http://www.wolframalpha.com/input/?i={{{356*24*60*60%2F3600}%2C{2123456%2F%2810^9%29}%2C{22*7*8%2F24%2F3600%2845%2F60%29}}%2C{{1}%2C{2}%2C{3}}%2C{{10^9}%2C{10^6}%2C{10^3}}}">
-Action 1.17
-Improving cross-border access to government data
-Access to base registries
-</a>
-
-Action 1.2
-Accessing Member State information resources at European level
-Catalogue of Services
-
-Action 1.3
-EU-wide interoperability of electronic identities
-ECAS-STORK integration
-
-Action 1.4   
-An interoperable solution for electronic identities (eIDs)
-STORK sustainability
-
-Action 1.5
-Developing electronic procurement for Europe
-PEPPOL sustainability
-
-Action 1.6
-Promoting the take-up of pan-European electronic procurement
-e-PRIOR electronic procurement platform
-
-Action 1.7
-Permitting secure document workflows between EU and national institutions
-Trusted Exchange Platform – e-Trustex
-
-Action 1.8
-Electronic procedures across borders
-TSL and eSignature creation/verification
-
-Action 1.9
-Flexible administrative cooperation platform
-IMI – the Internal Market Information System
-
-Action 1.10
-Managing and supporting the exchange of information
-GENIS – Generic Interoperable Notification Services
-
 Action 1.11
 Reusable tools for information collection
 Open source software to support the European citizens﻿
@@ -372,6 +330,38 @@ https://github.com/Zekom/img-browser/compare/Zekom-Image-Studio-V-1-0-1...master
 <hr/>
 <a href="http://sourceforge.net/projects/projectlibre/">ProjectLibre: the open source replacement of Microsoft Project
 <hr/>
+
+<hr/>
+ProjectLibre is the open source alternative to Microsoft Project
+114 Recommendations
+6.738 Downloads (This Week)
+Last Update: 6 days ago
+Download projectlibre-1.5.2.msi
+Browse All Files
+Windows BSD Mac Solaris Linux
+ProjectLibre Gantt Chart with ribbon UI
+
+<hr/>
+Description
+
+ProjectLibre is an open source alternative to Microsoft Project. We have a community site as well at http://www.projectlibre.org It has been downloaded in 194 countries the first month of release and was just voted Sourceforge's "Project of the Month" ProjectLibre is compatible with Microsoft Project 2003, 2007 and 2010 files. You can simply open them on Linux, Mac OS or Windows. ProjectLibre has been rewritten and added key features:
+
+* Compatibility with Microsoft Project 2010
+* User Interface improvement
+* Printing (does not allow printing)
+* Bug fixes
+
+The ProjectLibre team has been the key innovators in project management software dating to the mainframe/Dos/Windows markets and released the very first web-based project solution.....now also in development of a cloud/server replacement of Microsoft Project Server. If you download please donate so we can continue https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PZRJ24PWQE5C8
+ProjectLibre Project Management Software Web Site
+Categories
+Office Suites, Office/Business, Project Management
+License
+Common Public Attribution License 1.0 (CPAL)
+
+<hr/>
+<a href="http://sourceforge.net/projects/projectlibre/">ProjectLibre: the open source replacement of Microsoft Project
+<hr/>
+
 
 Welcome to the ProjectLibre community.  
 ProjectLibre was voted open source 'Project of the Month' in our first month!!!!! 
