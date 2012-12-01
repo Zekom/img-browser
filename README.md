@@ -5,6 +5,21 @@ https://ucilnica.fri.uni-lj.si/mod/forum/view.php?id=20962
 
 Odziv
 
+
+ZekomZ - Zekom Tribute Magazine - G+ Zekom
+
+    ZekomZ - Zekom Tribute Magazine - G+
+
+    https://github.com/Zekom
+
+    astral.uni@gmail.com
+
+    Joined on Aug 10, 2012
+
+    0 followers
+    33 starred
+    4 following
+
     Repositories
     Public Activity
 
@@ -22,7 +37,7 @@ Odziv
 
     ZekomZ - Zekom Tribute Magazine - G+ :: Manipulacija slik v brskalniku - Seminarska pri predmetu "Projektni praktikum" - Zekom-Image-Studio-v-1-0-1 ( Z-3 iNSiDE )
 
-    Last updated a minute ago
+    Last updated 1 minutes ago
 
 Ocena 	15,00 / 15,00
 Graded on 	sreda, 7. november 2012, 09:26
