@@ -4,7 +4,7 @@ Projektni praktikum
 https://ucilnica.fri.uni-lj.si/mod/forum/view.php?id=20962
 
 Odziv
-
+https://github.com/Zekom?tab=activity
 https://github.com/Zekom/img-browser
 https://github.com/Zekom
 <hr/>
