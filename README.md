@@ -1,3 +1,15 @@
+Projektni praktikum
+Študijsko leto 2012/2013
+  
+
+    Forum Forum novic
+    Forum Forum za razprave
+    Vir Tedenski pregled, pogoji in ocenjevanje pri PP Vir
+    Vir Seznam študentov, ki lahko opravljajo predmet (v3, 26.10.2012) Vir
+    Stran Samostojno delo
+    
+    https://ucilnica.fri.uni-lj.si/course/view.php?id=51
+    
 img-browser
 ===========
  Welcome, New Editor. Sing up and register to GitHub for adminstrative privileges.
