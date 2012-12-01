@@ -318,10 +318,16 @@ Sodelujoči:
 <hr/>
 https://github.com/zekom
 <hr/>
-https://git/hub.com/lukas86
+https://github.com/lukas86
 <hr/>
 https://github.com/papler
 <hr/>
+https://github.com/Zekom/img-browser/compare/Zekom-Image-Studio-V-1-0-1...master
+https://github.com/Zekom/img-browser
+https://github.com/Zekom
+
 
 Kraj in datum:
+https://ucilnica.fri.uni-lj.si/course/view.php?id=51
 
+1. December,2012
