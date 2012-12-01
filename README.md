@@ -392,9 +392,11 @@ https://github.com/Zekom
     
 <a href="https://ucilnica.fri.uni-lj.si/mod/forum/discuss.php?d=6369">[analiza tveganja, finančne analize (analiza izvedljivosti, analiza stroškov/prednosti, povračila investicije)]
 </a>
+<hr/>
 <a href="https://ucilnica.fri.uni-lj.si/mod/resource/view.php?id=11554">
 Apache OpenOffice - The Free and Open Productivity Suite
 www.openoffice.org/ - Posnetek </a><br/>
+<hr/>
 <a href="https://github.com/Zekom/img-browser/compare/Zekom-Image-Studio-V-1-0-1...master">The official home page of the Apache OpenOffice open source project, 
 home of OpenOffice Writer, Calc, Impress, Draw and Base.</a>
 
@@ -404,7 +406,6 @@ https://github.com/Zekom/img-browser/compare/Zekom-Image-Studio-V-1-0-1...master
 <a href="http://sourceforge.net/projects/projectlibre/">ProjectLibre: the open source replacement of Microsoft Project
 <hr/>
 
-<hr/>
 ProjectLibre is the open source alternative to Microsoft Project
 114 Recommendations
 6.738 Downloads (This Week)
