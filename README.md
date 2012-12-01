@@ -34,6 +34,25 @@ Projektni praktikum
 Samostojna izdelava programov
 
 </a>
+https://ucilnica.fri.uni-lj.si/mod/forum/discuss.php?d=6896#p24885
+    Naslov projekta:
+    "Manipulacija slik v brskalniku"
+    Kateri programski jezik uporabljate:
+    PHP/AJAX/CSS
+    Ali uporabljate QT?
+    Ne.
+    Ali za distribucijo uporabljate Google App Engine?
+    Mogoče.
+    Ali bi 30.11.2012 v času predavanj na kratko podali praktične izkušnje in priporočila ostalim študentom za implementacijo (zaželjena je kombinacija Python / QT / Google app engine)?
+    Ne.
+    To prinese skupini dodatnih 5 točk
+
+ 
+Odgovori
+Odg: Manipulacija slik v brskalniku
+od Jure Šavc - sreda, 28. november 2012
+ 
+ZekomZ - Zekom Tribute Magazine - G+ https://github.com/Zekom/img-browser Zekom G+. Manipulacija slik v brskalniku v storitvi Google + Ocene kolokvija so na e-ucilnici :) Čestitke vsem. 19. november - 25. november P. Adaptivno vodenje projektov URL WBS modeler - povezava URL LV. Preverjanje Individualni zagovori domačih nalog iz mrežnega načrtovanja (vsak študent dobi svoj list z unikatno nalogo iz mrežnega načrtovanja) https://github.com/Zekom
 
 Del izobraževalnega procesa na Fakulteti za računalništvo in informatiko je tudi samostojna izdelava računalniških programov. Žal študentje pogosto hote ali nehote narobe razumejo osnovna pravila poštene igre. Pri oddaji programske kode zato pogosto pride do različnih nepoštenosti in goljufij. Da bi se v bodoče izognili sprenevedanjem o tem, kaj se sme in česa ne, je v nadaljevanju jasno opisano, kaj pomeni samostojna izdelava programov.
 
