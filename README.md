@@ -21,6 +21,71 @@ Manipulacija slik v brskalniku - Seminarska pri predmetu Projektni praktikum
 1. Izhodišče (problem/priložnost)
  [opišite problem - izhodišče, zahteve naročnika, priložnosti za izboljšave]
 
+Pet faz projektnega nacrtovanja
+ kadar pa je potrebno vec nacrtovanja, da bi obvladali nase cilje in projekte,
+govorimo o vertikalnem fokusu,
+ katere aktivnosti so potrebne in v kaksnem vrstnem redu,
+ najbolj ucinkovito je dokaj preprosto in neformalno naravno planiranje v na-
+slednjih 5 korakih:
+1. ugotovi namen | zakaj naj bi nekaj naredili | in glavne omejitve ter
+predpostavke
+jasen NAMEN:
+{ denira uspeh
+{ oblikuje kriterije za odlocitve
+{ uredi zmogljivosti
+{ motivira
+{ izostri fokus
+{ razsiri opcije
+18
+predpostavke in omejitve pa denirajo okvir znotraj katerega delujemo in
+izvajamo akcije
+2. vizualiziraj si dosezene cilje!
+To je zelo uspesen nacin za aktivacijo in motivacijo. Uporabljajo ga
+sportniki. Ce vizualiziramo to kar zelimo doseci, se nasi mozgani pri-
+lagodijo iskanju te resitve. Cilje moramo cim bolj realisticno vizualizirati
+se preden nam je jasno, kako bi jih radi dosegli.
+3. brainstorming: ko enkrat vemo, kaj bi radi dosegli in zakaj, zacnemo
+razmisljati kako?
+Ta proces razmisljanja o resitvah je vecino interen in obicajno povsem
+zadosca (ko hitimo na pomemben sestanek, pogosto ze v nasi glavi formu-
+liramo stavke, ki bi jih radi povedali).
+Vcasih si je dobro ideje zapisovati. Gracne tehnike za zapisovanje idej:
+Mind maps (Tony Buzan).
+Ce ideje zapisujemo, jih nasa zavest enostavno generira vec. Ideje mo-
+ramo postaviti iz glave v objektivno, pregledno obliko. Potem jih lahko
+pregledujemo in odkrijemo v njih strukturo.
+Pri pomembnih zadevah pogosto sodeluje vec ljudi | brainstorming! Pri
+brainstormingu ne sodi, izzivaj, ocenjuj in kritiziraj!
+Kvantiteta je pomembnejsa od kvalitete idej!
+4. organiziranje:
+identiciramo komponente in podkomponente, zaporedje aktivnosti, nji-
+hove prioritete (spiski, hierarhije, mreze, itd.)
+kreativno razmisljanje se ne konca, ampak se izvaja v drugacni obliki
+Kljucni koraki:
+identiciraj pomembne elemente
+uredi po: komponentah, zaporedjih, prioritetah
+razgrajuj do potrebnega nivoja podrobnosti
+5. identiciranje naslednje akcije! To te poveze na realno situacijo.
+kaj je naslednja zicna akcija za vsak del projekta, ki se poteka?
+Formalni pristop je velikokrat nenaraven zato ker:
+1. ocenjujemo resitve, ne da bi se zares vprasali za namenom projekta
+2. skusamo strukturirati projekt ne da bi vedeli tocno kaj zelimo narediti
+3. zato se velikokrat izogibamo planiranju.
+
+    Vir Miselni vzorec - Diplomska naloga Vir
+    LV.   Pisni sestavek
+    Izbira teme pisnega sestavka, individualna potrditev in diskusija, pričetek dela.
+    Forum Prijava teme Forum
+
+15. oktober - 21. oktober
+P.   Govorni nastop
+Načrtovanje nastopa, priprava prosojnic, izvedba.
+
+    Vir Skripta: Govorni nastop Vir
+    LV.   Delo na pisnem sestavku & konzultacije
+    URL How to prepare and deliver a presentation
+
+
 <hr/>
 <a href="http://www.fri.uni-lj.si/file/133640/predmetnik_estudent_04.swf">
 Fakulteta za računalništvo in informatiko - Predmetnik BVS-RI_BVS-RI (136), FRI2012/2013</a>
