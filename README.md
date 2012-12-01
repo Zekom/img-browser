@@ -1,6 +1,28 @@
 Projektni praktikum
 Študijsko leto 2012/2013
-https://ucilnica.fri.uni-lj.si/mod/folder/view.php?id=20834
+  
+https://ucilnica.fri.uni-lj.si/mod/forum/view.php?id=20962
+
+Odziv
+
+Ocena 	15,00 / 15,00
+Graded on 	sreda, 7. november 2012, 09:26
+Graded by 	Slika od Aleš JakličAleš Jaklič
+
+Odziv
+Ocena 	8,00 / 10,00
+Graded on 	sreda, 28. november 2012, 13:23
+
++5t
+25% Complete. Good Work.
+
+https://sites.google.com/site/zekomtributemagazine/
+https://github.com/Zekom/img-browser
+https://github.com/Zekom
+
+https://ucilnica.fri.uni-lj.si/mod/forum/view.php?id=20962
+Pokaži nadrejeno | Odgovori
+Oglejte si to objavo v kontekstu
   
 
     Forum Forum novic
