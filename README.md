@@ -13,7 +13,7 @@ Odziv
 Ocena 	8,00 / 10,00
 Graded on 	sreda, 28. november 2012, 13:23
 
-+5t
++5t,
 25% Complete. Good Work.
 
 https://sites.google.com/site/zekomtributemagazine/
@@ -444,4 +444,4 @@ https://github.com/Zekom
 Kraj in datum:
 https://ucilnica.fri.uni-lj.si/course/view.php?id=51
 
-1. December,2012
+Ljubljana. 1. December, 2012
