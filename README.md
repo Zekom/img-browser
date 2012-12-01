@@ -53,7 +53,7 @@ ZekomZ - Zekom Tribute Magazine - G+ Zekom
 
 Ocena 	15,00 / 15,00
 Graded on 	sreda, 7. november 2012, 09:26
-Graded by 	Slika od Aleš JakličAleš Jaklič
+Graded by 	Slika od Aleš Jaklič
 
 Odziv
 Ocena 	8,00 / 10,00
