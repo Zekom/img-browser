@@ -1,9 +1,23 @@
 V to datoteko lahko vnašate vprašanja, opombe, predloge, navodila ...
 
-Ali vam Github dela?
+UA-36746980-1 https://github.com/Zekom/img-browser/blob/Zekom-Image-Studio-V-1-0-1/images/google-adwords.php.html
+https://github.com/Zekom/img-browser/compare/Zekom-Image-Studio-V-1-0-1...master
 
+<script type="text/javascript">
 
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36746980-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
 
 Kako v okolju GITHUB dodamo povezane repozitorije:
+
 http://stackoverflow.com/questions/7813030/how-can-i-have-linked-dependencies-in-a-git-repo
 
