@@ -143,3 +143,26 @@ http://stackoverflow.com/questions/7813030/how-can-i-have-linked-dependencies-in
 ................................................................................
                                                                  GlassGiant.com
 </a>
+
+
+
+Organization Name
+
+    The organization will live at https://github.com/
+
+Billing Email
+
+    Receipts will be sent here
+
+Secure Choose the organization’s plan
+Plan     Private Repos 	
+Mendelevium ($1,250/month) 	900 	
+Einsteinium ($1,050/month) 	750 	
+Fermium ($850/month) 	600 	
+Holmium ($650/month) 	450 	
+Diamond ($450/month) 	300 	
+Platinum ($200/month) 	125 	
+Gold ($100/month) 	50 	
+Silver ($50/month) 	20 	
+Bronze ($25/month) 	10 	
+Open Source ($0/month) 	0 	
