@@ -88,7 +88,9 @@ Načrtovanje nastopa, priprava prosojnic, izvedba.
 
 <hr/>
 <a href="http://www.fri.uni-lj.si/file/133640/predmetnik_estudent_04.swf">
+<hr/>
 Fakulteta za računalništvo in informatiko - Predmetnik BVS-RI_BVS-RI (136), FRI2012/2013</a>
+<hr/>
 http://www.fri.uni-lj.si/si/izobrazevanje/urnik/dodiplomski-studij/
 <hr/>
 https://ucilnica.fri.uni-lj.si/course/view.php?id=94<hr/>
@@ -99,7 +101,10 @@ Projektni praktikum
 Samostojna izdelava programov
 
 </a>
+<hr/>
 https://ucilnica.fri.uni-lj.si/mod/forum/discuss.php?d=6896#p24885
+<hr/>
+
     Naslov projekta:
     "Manipulacija slik v brskalniku"
     Kateri programski jezik uporabljate:
@@ -112,7 +117,7 @@ https://ucilnica.fri.uni-lj.si/mod/forum/discuss.php?d=6896#p24885
     Ne.
     To prinese skupini dodatnih 5 točk
 
- 
+<hr/> 
 Odgovori
 Odg: Manipulacija slik v brskalniku
 od Jure Šavc - sreda, 28. november 2012
