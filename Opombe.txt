@@ -171,3 +171,25 @@ Gold ($100/month) 	50
 Silver ($50/month) 	20 	
 Bronze ($25/month) 	10 	
 Open Source ($0/month) 	0 	
+
+
+
+- priprava projektne dokumentacije (tekstovno)
+- priprava dokumentacije (mrežni diagram, gantt, itd, v "projectlibre)
+
+- izdelava prototipa (proof of concept, da je mogoč drag-drop datoteke v browser, da se slika nariše v HtmlCanvas)
+- nadgradnja prototipa, da je mogoče filtre/Efekte programirati modularno (GaussianBlur extends Effect)
+- dodana možnost, da se slika prenese iz strežnika in naloži v HtmlCanvas, ter da to sliko lahko nazaj shranimo
+    - PHP-image-browser(thumbnaili), "save.php" datoteka s katero lahko shranimo neko sliko.
+
+- modul: inverse
+- modul: black/white
+- modul: sephia
+
+- modul: prikaz histograma (tudi po barvnih kanalih)
+- modul: gaussian blur, box blur...
+- modul: levels (darken-brighten, contrast, hue )
+- modul: crop
+
+- modul: še kakšen domiselen efekt na sliki. ... (motion blur, ...)
+
