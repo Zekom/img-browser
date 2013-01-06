@@ -1,0 +1,229 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html lang="en">
+
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		
+		<script type="text/javascript" src="editor/jquery-1.8.3.js"></script>
+		
+		<script type="text/javascript" src="editor/tree.js"></script>
+		
+		<script type="text/javascript" src="editor/editor.js"></script>
+		
+		<script type="text/javascript" src="editor/modules/treshold.js"></script>
+		<script type="text/javascript" src="editor/modules/invert.js"></script>
+		<script type="text/javascript" src="editor/modules/gamma.js"></script>
+		<script type="text/javascript" src="editor/modules/monochrome.js"></script>
+		
+		<script type="text/javascript" src="editor/modules/histogram.js"></script>
+		
+	
+		
+		
+		<link rel="stylesheet" type="text/css" href="menu/jqueryslidemenu.css" />
+
+		<!--[if lte IE 7]>
+		<style type="text/css">
+		html .jqueryslidemenu{height: 1%;} /*Holly Hack for IE7 and below*/
+		</style>
+		<![endif]-->
+
+		
+		<script type="text/javascript" src="menu/jqueryslidemenu.js"></script>
+
+
+
+
+	
+	<script type="text/javascript">
+
+	
+	
+	
+	
+	
+		var editor = null;
+		window.onload = function()
+		{
+			editor = new SsspEditor( "editor1", "#testdiv", SsspEditorConfig );
+			//alert( editor.Config.ModulesToString() );
+
+			
+			//editor.BuildMenu();
+			
+			
+	
+		
+	
+		};
+	</script>
+
+	
+	<style>
+	
+	
+	/*
+div.SsspEditorContainer{
+border:10px green outset;
+}
+div.SsspEditorMenu{
+border: 3px blue inset;
+}
+
+div.SsspEditorWrapper{
+	float: left;
+	width: 100%;
+}
+
+div.SsspEditorCanvas{
+	margin-right: 200px; 
+}
+
+div.SsspEditorToolbox{
+	float: right;
+	width: 200px;
+	margin-left: -100%;
+	background: #C8FC98;
+}*/
+	</style>
+
+	</head>
+<body>
+	<div>
+		<div>
+			<input type="button" value="darkenTest" onclick="darkenTest()">
+			<input type="button" value="bwTest" onclick="bwTest()">
+			<input type="button" value="histTest" onclick="histTest()">
+			<input type="button" value="invertTest" onclick="invertTest()">
+		</div>
+		<div id="testdiv">
+			
+			<!--
+			<canvas id="cnv2" style="border:3px red solid;"></canvas>
+			-->
+			<!--<output id="output"></output>-->
+		</div>
+	</div>
+	
+	
+	
+<script>
+	
+	
+	
+	function darkenTest()
+	{
+		var canvas = document.getElementById('cnv');
+		var ctx = canvas.getContext("2d");
+		var factor = prompt("Enter factor. <1 for darken, >1 for lighten");
+		var imagedata = context.getImageData( 0, 0, canvas.width, canvas.height );
+		var data = imagedata.data;
+		for(var i = 0; i < data.length; i += 4) {
+			  data[i]     = data[i]    * factor;
+			  data[i + 1] = data[i + 1]*factor;
+			  data[i + 2] = data[i + 2]*factor; 
+			}
+		imagedata.data = data;
+		ctx.putImageData( imagedata, 0, 0  );
+	}
+	function bwTest()
+	{
+		var canvas = document.getElementById('cnv');
+		var ctx = canvas.getContext("2d");
+		var imagedata = ctx.getImageData(0,0,canvas.width,canvas.height );
+		var data = imagedata.data;
+		var f=0;
+		for(var i = 0; i < data.length; i += 4) 
+		{
+			f=(data[i]+data[i+1]+data[i+2])/3;
+			data[i]=f;
+			data[i+1]=f;
+			data[i+2]=f; 
+		}
+		imagedata.data = data;
+		ctx.putImageData( imagedata, 0, 0  );
+	}
+	function invertTest()
+	{
+		var canvas = document.getElementById('cnv');
+		var ctx = canvas.getContext("2d");
+		var imagedata = ctx.getImageData(0,0,canvas.width,canvas.height);
+		var data = imagedata.data;
+		for(var i = 0; i < data.length; i += 4) 
+		{
+			data[i]=255-data[i];		//red
+			data[i+1]=255-data[i+1];	//green
+			data[i+2]=255-data[i+2];	//blue
+		}
+		ctx.putImageData(imagedata,0,0);
+	}
+	function histTest() //o=r,1=g,2=b,3=BW
+	{
+		var canvas = document.getElementById("cnv");
+		var ctx = canvas.getContext("2d");
+		var imagedata = context.getImageData(0,0,canvas.width,canvas.height );
+		var data = imagedata.data;
+		//init arrays
+		var hist = {l:[],r:[],g:[],b:[]};
+        for ( i = 0; i < 256; i ++ )
+		{
+            hist.l[i] = hist.r[i] = hist.g[i] = hist.b[i] = 0;
+        }
+		//calc hist
+		for ( i = 0; i < data.length; i += 4 )
+		{
+            var r = data[i],g = data[i+1],b = data[i+2];
+            var l = Math.round((r+g+b)/3);
+            hist.l[l] ++;
+            hist.r[r] ++;
+            hist.g[g] ++;
+            hist.b[b] ++;
+        }
+		//draw histogram
+		var canvas = document.getElementById('cnv');
+		canvas.width=600;
+		canvas.height=400;
+		var ctx = canvas.getContext("2d");
+		ctx.clearRect(0,0,canvas.width,canvas.height);
+		X=hist.l; //menjamo l,r,g,b
+		for(var i=0;i<X.length;i++) 
+		{
+			ctx.beginPath();
+			ctx.moveTo(i*2,400);
+			ctx.lineTo(i*2,400-Math.round(X[i]/10));
+			ctx.stroke();
+		}
+		ctx.putImageData(imageData,0,0);
+	}
+
+	</script>
+
+
+
+<!--
+<div class="SsspEditorWrapper">
+    <div class="SsspEditorCanvas">
+        <div class="innertube"><b>Content Column: <em>Fluid</em>  
+			Aliquam augue odio, egestas et congue ac, pretium eu eros. Cras cursus enim a est ultrices ac pulvinar massa consequat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris porttitor erat rhoncus purus mollis eget placerat arcu bibendum. Nullam imperdiet metus sed risus feugiat id pretium nulla dignissim. Fusce ac velit tellus. Morbi eu est id ligula vestibulum volutpat. Pellentesque risus est, varius suscipit elementum ut, hendrerit vitae metus. Duis commodo, leo eget vestibulum lacinia, neque sem ultrices nisi, sed commodo lectus est ac libero. Suspendisse aliquet cursus erat sit amet faucibus. Aliquam sed nisi ante. In eu leo augue, eu bibendum neque. </b></div>
+    </div>
+</div>
+
+
+<div class="SsspEditorToolbox">
+    <div class="innertube"><b>Left Column: <em>200px</em>
+			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras egestas varius dui eget dignissim. Nulla luctus, nibh eu tincidunt fermentum, orci velit facilisis urna, non ultrices tellus neque sit amet magna. In id orci erat, sed fringilla nisi. Nunc vel tellus leo. Aliquam elit dui, sodales sit amet consectetur vitae, accumsan vel nibh. Sed quis luctus odio. Vivamus eget arcu dolor, eget facilisis mauris. Nulla adipiscing urna bibendum leo porta gravida viverra turpis tristique. Donec interdum diam et orci volutpat lobortis at pulvinar tellus. Nam interdum sagittis dolor, vitae adipiscing velit lacinia quis. Maecenas ac eros sit amet velit sollicitudin rhoncus non sit amet sem. Proin tempus gravida laoreet. Cras ut nibh eu quam facilisis imperdiet. Maecenas sed mauris in odio mattis auctor vitae et tortor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
+</div>
+</div>
+
+-->
+
+
+
+<textarea id="info" rows=20 cols=100></textarea>
+
+
+
+		
+	</body>
+</html>
