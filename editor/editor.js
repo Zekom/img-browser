@@ -196,20 +196,17 @@ function SsspEditor( name, target, config )
 	}
 	this.getOriginalData = function()
 	{
-		d = {
-			width: this.originalImageData.width,
-			height: this.originalImageData.height,
-			data: new Uint8ClampedArray( this.originalImageData.data )
-		};
 		
-		return d;
 		
-		/*return { 
-			width: this.originalImageData.width,
-			height: this.originalImageData.height,
-			data: this.originalImageData.data.slice(0) 
-		
-		};*/
+		w = this.originalImageData.width;
+		h = this.originalImageData.height;
+		canvas = document.createElement('canvas');
+		canvas.width = w;
+		canvas.height = h;
+		context = canvas.getContext('2d');
+		context.putImageData(this.originalImageData, 0, 0);
+		return context.getImageData(0, 0, w, h);
+
 	}
 	
 	this.canvasBackup = function()
